@@ -1,0 +1,10 @@
+{
+  "name": "hello-vue",
+  "version": "0.0.1",
+  "description": "VueJS practice project",
+  "main": "index.js",
+  "repository": "https://github.com/andfaulkner/hello-vue",
+  "author": "Andrew Faulkner <andfaulkner@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
